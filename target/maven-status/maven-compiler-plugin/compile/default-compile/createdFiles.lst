@@ -1,0 +1,6 @@
+com/newtours/pages/FlightDetailsPage.class
+com/newtours/pages/FlightConfirmationPage.class
+com/newtours/pages/FindFlightPage.class
+com/newtours/pages/BasePage.class
+com/newtours/pages/RegistrationPage.class
+com/newtours/pages/RegistrationConfirmationPage.class
